@@ -57,3 +57,12 @@ Create a script that loops through all the stocks for each quarter and outputs t
 * Received help from Tutor and Learning Assistant on Lines 106- 114 (Match Function). 
 * Used Tutor's guidance to google how to loop through worksheets.
 * Used Learning Assistant for general help with syntax.
+* 
+
+# Screenshots
+
+[![Screenshot-2024-06-10-at-11-27-51-AM.png](https://i.postimg.cc/prZr43dY/Screenshot-2024-06-10-at-11-27-51-AM.png)](https://postimg.cc/9wDcq8Zr)
+[![Screenshot-2024-06-10-at-11-28-17-AM.png](https://i.postimg.cc/nrsSPf2N/Screenshot-2024-06-10-at-11-28-17-AM.png)](https://postimg.cc/q6TGNY9G)
+[![Screenshot-2024-06-10-at-11-28-28-AM.png](https://i.postimg.cc/T3j7S9j2/Screenshot-2024-06-10-at-11-28-28-AM.png)](https://postimg.cc/tsTNnFm8)
+[![Screenshot-2024-06-10-at-11-28-36-AM.png](https://i.postimg.cc/BZLGzrjq/Screenshot-2024-06-10-at-11-28-36-AM.png)](https://postimg.cc/w3pPyb5P)
+
